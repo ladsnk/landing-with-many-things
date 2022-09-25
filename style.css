@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(./images/bg-desktop.svg);
   background-color: hsl(257, 40%, 49%);
   background-size: cover;
   min-height: 100vh;
@@ -36,10 +36,6 @@ img {
   display: flex;
   margin-top: 40px;
 }
-
-/* .flex > div {
-  /* flex: 1; 
-} */
 
 .flex > div:first-child {
   flex: 0.7;
